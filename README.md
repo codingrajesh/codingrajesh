@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Rajesh Gautam and I'm a Web Developer & learning new things everyday.</p>
+<p align="left">My name is  Rajesh Gautam and I'm a Web Developer & Web Designer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am a BCA Student ...<br>📚 I'm currently learning MERN Full Stack ...<br>🎯 Goals: ... I am looking for a new jobs & I like to enhance my knowledge and skills where I am working.<br>🎲 Area of Interest:-play video games,listening to music,internet surfing.</p>
+<p align="left">✨ I am a BCA Student ...<br>📚 I'm currently learning MERN Full Stack ...<br>🎯 Goals: ... I am looking for a new jobs & I like to enhance my knowledge and skills efficiently, where I am working.<br>🎲 Area of Interest:-play video games,listening to music,internet surfing.</p>
 
 ###
 
@@ -49,18 +49,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
