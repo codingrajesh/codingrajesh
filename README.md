@@ -1,4 +1,4 @@
-<h1 align="left">Welcome👋</h1>
+<h1 align="left">Welcome To My Profile👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm a BCA Student ...<br>📚 I'm currently learning MERN Full Stack ...<br>🎯 Goals: ... I want to reach a respectable position in an organisation, where I am working.<br>🎲 Area of Interest:-play video games,listening to music,internet surfing.</p>
+<p align="left">✨ I'm a BCA Student ...<br>📚 --Aspiring MERN Full Stack ...<br>🎯 Goals: ... I want to reach a respectable position in an organisation, where I am working.<br>🎲 Area of Interest:-play video games,listening to music,internet surfing.</p>
 
 ###
 
