@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wix-studio/wix-studio.svg" height="40" alt="wixstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wix/wix.svg" height="40" alt="wixstudio logo"  />
 </div>
 
 ###
