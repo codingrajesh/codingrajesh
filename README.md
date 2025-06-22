@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
    <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wix/wix.sv](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWEE07-YRaVxYXljYmaDTlu3427SkwUXOFw&s)g"    height="40" alt="wixstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
